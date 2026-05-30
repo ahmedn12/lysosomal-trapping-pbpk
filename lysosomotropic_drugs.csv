@@ -1,0 +1,9 @@
+Drug,pKa,logP,Category,Kp_lys_cyt,Lysosomotropic
+Chloroquine,10.1,4.63,Antimalarial,501.0,YES
+Metformin,11.5,-1.43,Biguanide (hydrophilic),501.0,NO
+Imipramine,9.5,4.28,Antidepressant,499.0,YES
+Hydroxychloroquine,9.67,3.55,Antimalarial,499.0,YES
+Propranolol,9.5,3.48,Beta-blocker,499.0,YES
+Amitriptyline,9.4,4.92,Antidepressant,498.0,YES
+Amiodarone,9.0,7.57,Antiarrhythmic,493.0,YES
+Aspirin,3.5,1.19,"NSAID (acid, no trap)",1.0,NO
